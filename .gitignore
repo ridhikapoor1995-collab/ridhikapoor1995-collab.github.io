@@ -1,1 +1,4 @@
 /bin
+
+# MyST build outputs
+_build
